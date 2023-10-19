@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git Repository.
-<Br>
+<br>
 Author - Mohd Adnan Parvez
